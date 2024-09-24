@@ -31,7 +31,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Gabriele Laczinski"
+            android:text="Geovanna Mangaba da Rocha"
             android:textSize="24sp" />
 
         <TextView
@@ -47,7 +47,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Matricula: 33982929"
+            android:text="Matricula: 33397244"
             android:textSize="16sp" />
 
         <TextView
